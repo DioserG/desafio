@@ -1,0 +1,30 @@
+.center_nav{
+	background-color:#222;
+	display: flex;
+	justify-content: center;
+	
+}
+
+.bg {
+	margin: 0 auto;
+	margin-top: 0;
+    margin-left: 38%;
+	height:600px;
+	background-repeat: no-repeat;
+}
+
+.fundo_bg {
+    margin: 0 auto;
+	height:303px;
+	background-repeat: repeat-x;
+	border-bottom:solid 3px #ccc;
+
+}
+.bg {
+	margin: 0 auto;
+	margin-top: 0;
+    margin-left: 35%;
+	height:300px; 
+	background-repeat: no-repeat;
+
+}
